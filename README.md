@@ -40,6 +40,9 @@ It helps users manage daily tasks efficiently with a simple and intuitive UI.
 🎥 App Demo
 You can see the video by clicking the below link
 https://github.com/Drishti-tech2507/Taskify-Android-App/blob/main/demo_video.mp4
+Screenshot_20251225_215159.png
+Screenshot_20251225_215304.png
+Screenshot_20251225_215318.png
 
 ⸻
 
